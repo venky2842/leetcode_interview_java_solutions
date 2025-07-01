@@ -46,11 +46,11 @@ mvn test
 3. Ensure the package is `leetcode` in both files.
 
 ### Add All LeetCode Top Interview Questions
-This repository aims to collect all solutions for the [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-medium). If you want to contribute, add your solution and corresponding test as described above.
+This repository aims to collect all solutions for the [LeetCode Top Interview Questions]. If you want to contribute, add your solution and corresponding test as described above.
 
 ## Example
 
-To run the tests for `SetMatrixZeroes` and `ThreeSum`, simply run:
+To run the tests, simply run:
 ```
 mvn test
 ```
